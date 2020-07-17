@@ -1,0 +1,13 @@
+D:\VS项目\Present\Present\bin\Release\Present.exe.config
+D:\VS项目\Present\Present\bin\Release\Present.exe
+D:\VS项目\Present\Present\bin\Release\Present.pdb
+D:\VS项目\Present\Present\obj\Release\Present.csprojAssemblyReference.cache
+D:\VS项目\Present\Present\obj\Release\Present.Forms.Form0.resources
+D:\VS项目\Present\Present\obj\Release\Present.Forms.Form1.resources
+D:\VS项目\Present\Present\obj\Release\Present.Forms.Interfere.resources
+D:\VS项目\Present\Present\obj\Release\Present.Properties.Resources.resources
+D:\VS项目\Present\Present\obj\Release\Present.Forms.Wx1.resources
+D:\VS项目\Present\Present\obj\Release\Present.csproj.GenerateResource.cache
+D:\VS项目\Present\Present\obj\Release\Present.csproj.CoreCompileInputs.cache
+D:\VS项目\Present\Present\obj\Release\Present.exe
+D:\VS项目\Present\Present\obj\Release\Present.pdb

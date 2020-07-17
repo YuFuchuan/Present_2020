@@ -1,0 +1,11 @@
+D:\VS项目\Present\Present\obj\Debug\Present.Properties.Resources.resources
+D:\VS项目\Present\Present\obj\Debug\Present.csproj.GenerateResource.Cache
+D:\VS项目\Present\Present\obj\Debug\Present.csproj.CoreCompileInputs.cache
+D:\VS项目\Present\Present\obj\Debug\Present.Forms.Form1.resources
+D:\VS项目\Present\Present\obj\Debug\Present.csprojAssemblyReference.cache
+D:\VS项目\Present\Present\obj\Debug\Present.Forms.Form0.resources
+D:\VS项目\Present\Present\bin\Debug\CG-Card.exe.config
+D:\VS项目\Present\Present\bin\Debug\CG-Card.exe
+D:\VS项目\Present\Present\bin\Debug\CG-Card.pdb
+D:\VS项目\Present\Present\obj\Debug\CG-Card.exe
+D:\VS项目\Present\Present\obj\Debug\CG-Card.pdb
